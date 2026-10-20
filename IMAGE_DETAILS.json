@@ -1,0 +1,421 @@
+{
+  "generation": "Built-in image generation, realistic physiotherapy teaching photographs; four rows of start/action movement pairs. Full generated resolution retained as WebP quality 100. Assets embedded in both HTML files.",
+  "manifest": [
+    {
+      "file": "standing-1.webp",
+      "source": "exec-a525499a-83ce-4ab4-8682-f66aaae8edbd.png",
+      "width": 1024,
+      "height": 1536,
+      "rows": [
+        {
+          "key": "knee",
+          "desc": "Standing knee lift: stand tall with hands on hips, then raise one knee to hip height without leaning"
+        },
+        {
+          "key": "sideStep",
+          "desc": "Side step: feet together then step one foot sideways, knees soft"
+        },
+        {
+          "key": "mobility",
+          "desc": "Gentle shoulder mobility: arms relaxed by sides then make a gentle comfortable shoulder circle, upright torso"
+        },
+        {
+          "key": "squat",
+          "desc": "Bodyweight squat: stand feet shoulder width then sit hips back into a comfortable half squat, heels grounded"
+        }
+      ],
+      "boundaries": [
+        0,
+        374,
+        754,
+        1137,
+        1536
+      ],
+      "bytes": 178546
+    },
+    {
+      "file": "standing-2.webp",
+      "source": "exec-ce79e8ff-b276-4180-a058-f08b076221dc.png",
+      "width": 1024,
+      "height": 1536,
+      "rows": [
+        {
+          "key": "curl",
+          "desc": "Dumbbell biceps curl: palms forward arms down, then curl dumbbells toward shoulders, elbows at sides"
+        },
+        {
+          "key": "lateral",
+          "desc": "Dumbbell lateral raise: arms down then raise arms out to sides to shoulder height, elbows soft"
+        },
+        {
+          "key": "lunge",
+          "desc": "Reverse lunge: upright standing then step one foot back and bend both knees comfortably"
+        },
+        {
+          "key": "press",
+          "desc": "Dumbbell shoulder press: weights at shoulders then press overhead without arching back"
+        }
+      ],
+      "boundaries": [
+        0,
+        373,
+        752,
+        1120,
+        1536
+      ],
+      "bytes": 175716
+    },
+    {
+      "file": "standing-3.webp",
+      "source": "exec-90c00315-5183-451a-a08c-e30f65decadb.png",
+      "width": 1024,
+      "height": 1536,
+      "rows": [
+        {
+          "key": "sideLunge",
+          "desc": "Side lunge: standing feet together then step right wide and bend right knee while left leg stays straight"
+        },
+        {
+          "key": "step",
+          "desc": "Step up onto a low stable exercise step: foot on step then stand up onto it, upright torso"
+        },
+        {
+          "key": "sumo",
+          "desc": "Wide stance bodyweight squat: wide feet toes slightly out then lower hips comfortably with knees tracking toes"
+        },
+        {
+          "key": "hammer",
+          "desc": "Dumbbell hammer curl: arms down palms facing body then curl elbows with palms facing inward"
+        }
+      ],
+      "boundaries": [
+        0,
+        353,
+        732,
+        1100,
+        1536
+      ],
+      "bytes": 180088
+    },
+    {
+      "file": "standing-4.webp",
+      "source": "exec-97631e9e-bf65-46e3-9217-51f38a12857a.png",
+      "width": 1024,
+      "height": 1536,
+      "rows": [
+        {
+          "key": "split",
+          "desc": "Stationary split squat: staggered stance then lower by bending both knees, upright torso"
+        },
+        {
+          "key": "calf",
+          "desc": "Standing calf raise: feet flat then rise onto balls of feet, upright posture"
+        },
+        {
+          "key": "front",
+          "desc": "Dumbbell front raise: arms down then lift weights forward to shoulder height"
+        },
+        {
+          "key": "row",
+          "desc": "Standing resistance band row: upright torso, band anchored ahead at chest height, arms extended then pull elbows back toward ribs"
+        }
+      ],
+      "boundaries": [
+        0,
+        336,
+        685,
+        1048,
+        1536
+      ],
+      "bytes": 178578
+    },
+    {
+      "file": "standing-5.webp",
+      "source": "exec-8ffcc99c-e256-4ee6-b4b5-8f19479b987e.png",
+      "width": 1024,
+      "height": 1536,
+      "rows": [
+        {
+          "key": "chest",
+          "desc": "Standing resistance band chest press: band anchored behind at chest height, elbows bent by ribs then press hands forward"
+        },
+        {
+          "key": "pull",
+          "desc": "Standing resistance band pull-apart: hold band ahead at shoulder height, hands shoulder width then pull hands apart horizontally"
+        },
+        {
+          "key": "sideLeg",
+          "desc": "Standing side leg lift: stand holding stable chair lightly, then lift outside leg sideways with toes forward"
+        },
+        {
+          "key": "punch",
+          "desc": "Standing alternating punch: fists by chest then extend one fist forward without locking elbow"
+        }
+      ],
+      "boundaries": [
+        0,
+        370,
+        748,
+        1120,
+        1536
+      ],
+      "bytes": 192018
+    },
+    {
+      "file": "standing-6.webp",
+      "source": "exec-5eef6bd2-316d-496b-829b-91846c41ae2d.png",
+      "width": 1024,
+      "height": 1536,
+      "rows": [
+        {
+          "key": "squatRack",
+          "desc": "Dumbbell squat with weights at shoulders: standing then comfortable squat, weights remain at shoulders"
+        },
+        {
+          "key": "legCurl",
+          "desc": "Standing hamstring curl: stand lightly holding chair then bend one knee to bring heel toward buttocks"
+        },
+        {
+          "key": "kickback",
+          "desc": "Standing glute kickback: stand holding chair then extend one straight leg slightly behind without arching back"
+        },
+        {
+          "key": "pressdown",
+          "desc": "Standing band triceps pressdown: resistance band anchored securely above, elbows tucked and bent then straighten elbows pressing hands down"
+        }
+      ],
+      "boundaries": [
+        0,
+        366,
+        734,
+        1102,
+        1536
+      ],
+      "bytes": 210904
+    },
+    {
+      "file": "standing-7.webp",
+      "source": "exec-54cb6d7b-c74e-4f9f-ada7-b19c4509c3c4.png",
+      "width": 1024,
+      "height": 1536,
+      "rows": [
+        {
+          "key": "sitStand",
+          "desc": "Sit to stand: sit upright near front of stable chair, feet grounded then rise to standing without using hands"
+        },
+        {
+          "key": "extension",
+          "desc": "Seated knee extension: sit upright in sturdy chair with knees bent, then straighten one knee with thigh remaining on seat"
+        },
+        {
+          "key": "pallof",
+          "desc": "Standing Pallof press: resistance band anchored to one side at chest height, hands at sternum then press forward resisting rotation"
+        },
+        {
+          "key": "walk",
+          "desc": "Walking on level ground: upright relaxed walking with opposite arm and leg swinging, show two successive steps"
+        }
+      ],
+      "boundaries": [
+        0,
+        369,
+        712,
+        1103,
+        1536
+      ],
+      "bytes": 206590
+    },
+    {
+      "file": "standing-8.webp",
+      "source": "exec-8852cc08-0ff7-437d-b095-07c861d6d859.png",
+      "width": 1024,
+      "height": 1536,
+      "rows": [
+        {
+          "key": "hill",
+          "desc": "Walking gently uphill on a shallow incline: relaxed upright gait, short strides, show two successive steps"
+        },
+        {
+          "key": "pushup",
+          "desc": "Incline push-up at stable waist-high counter: straight body from head to heels with hands on counter, then bend elbows lowering chest toward counter"
+        },
+        {
+          "key": "inclinePress",
+          "desc": "Dumbbell incline chest press on an incline bench: back supported at 45 degrees, weights beside upper chest then press upward"
+        },
+        {
+          "key": "supportedRow",
+          "desc": "Standing supported one-arm dumbbell row: one hand supported on sturdy bench, staggered feet, neutral back hinged comfortably, other arm hangs then rows weight toward hip"
+        }
+      ],
+      "boundaries": [
+        0,
+        378,
+        763,
+        1148,
+        1536
+      ],
+      "bytes": 294388
+    },
+    {
+      "file": "standing-9.webp",
+      "source": "exec-a8fa9cfd-9190-4825-9932-98dcb8518f11.png",
+      "width": 1024,
+      "height": 1536,
+      "rows": [
+        {
+          "key": "triceps",
+          "desc": "Dumbbell triceps kickback: slight hip hinge neutral back, upper arms alongside torso, elbows bent then extend elbows backwards"
+        },
+        {
+          "key": "goblet",
+          "desc": "Dumbbell goblet squat: stand holding one dumbbell vertically against chest, then squat to comfortable depth heels grounded"
+        },
+        {
+          "key": "hinge",
+          "desc": "Bodyweight hip hinge: upright stance then push hips backward with slightly bent knees and neutral spine, hands on hips"
+        },
+        {
+          "key": "carry",
+          "desc": "Farmer carry: stand tall with a dumbbell in each hand at sides then walk with short controlled steps, show two successive positions"
+        }
+      ],
+      "boundaries": [
+        0,
+        345,
+        712,
+        1083,
+        1536
+      ],
+      "bytes": 179452
+    },
+    {
+      "file": "seated-1.webp",
+      "source": "exec-f2a55d25-30d1-40df-b4e4-3982270d9aa1.png",
+      "width": 1024,
+      "height": 1536,
+      "rows": [
+        {
+          "key": "curl",
+          "desc": "Seated dumbbell biceps curl, palms forward"
+        },
+        {
+          "key": "press",
+          "desc": "Seated dumbbell shoulder press from shoulder level to overhead"
+        },
+        {
+          "key": "lateral",
+          "desc": "Seated dumbbell lateral raise from arms down to shoulder height at sides"
+        },
+        {
+          "key": "front",
+          "desc": "Seated dumbbell front raise from arms down to shoulder height ahead"
+        }
+      ],
+      "boundaries": [
+        0,
+        354,
+        745,
+        1120,
+        1536
+      ],
+      "bytes": 315854
+    },
+    {
+      "file": "seated-2.webp",
+      "source": "exec-322eda7b-ddac-4811-a199-a92b247aa1f1.png",
+      "width": 1024,
+      "height": 1536,
+      "rows": [
+        {
+          "key": "calf",
+          "desc": "Seated calf raise from feet flat to heels lifted, toes grounded"
+        },
+        {
+          "key": "knee",
+          "desc": "Seated knee lift, lift one bent knee a few inches with upright torso"
+        },
+        {
+          "key": "row",
+          "desc": "Seated resistance band row, band anchored in front at chest height, elbows pull back by ribs"
+        },
+        {
+          "key": "pull",
+          "desc": "Seated resistance band pull-apart, arms forward at shoulder height then hands spread apart horizontally"
+        }
+      ],
+      "boundaries": [
+        0,
+        353,
+        729,
+        1097,
+        1536
+      ],
+      "bytes": 285878
+    },
+    {
+      "file": "seated-3.webp",
+      "source": "exec-be42be86-e49b-4796-9f78-2a34e2509406.png",
+      "width": 1024,
+      "height": 1536,
+      "rows": [
+        {
+          "key": "hammer",
+          "desc": "Seated dumbbell hammer curl with palms facing inward, curl from sides to shoulders"
+        },
+        {
+          "key": "punch",
+          "desc": "Seated alternating punch, fists at chest then one arm extended forward"
+        },
+        {
+          "key": "mobility",
+          "desc": "Seated gentle shoulder mobility, arms relaxed then shoulders gently circle with relaxed bent elbows"
+        },
+        {
+          "key": "extension",
+          "desc": "Seated knee extension, knee bent 90 degrees then one leg straightened in front, thigh stays supported"
+        }
+      ],
+      "boundaries": [
+        0,
+        356,
+        719,
+        1109,
+        1536
+      ],
+      "bytes": 246306
+    },
+    {
+      "file": "extra-1.webp",
+      "source": "exec-b62e5480-24b3-4676-b165-665c32204aae.png",
+      "width": 1024,
+      "height": 1536,
+      "rows": [
+        {
+          "key": "band-curl",
+          "desc": "Standing resistance band biceps curl. Band securely under both feet, palms forward, arms down in left start panel, elbows bend hands toward shoulders in right action panel. No dumbbells."
+        },
+        {
+          "key": "band-press",
+          "desc": "Standing resistance band shoulder press. Band securely under both feet, hands at shoulders left start, arms press overhead right action. No dumbbells."
+        },
+        {
+          "key": "reach",
+          "desc": "Standing bodyweight alternating forward reach, NO weights or equipment. Arms bent near torso at left start, one hand reaches forward at shoulder height in right action. Stand tall."
+        },
+        {
+          "key": "seated-reach",
+          "desc": "SEATED bodyweight alternating forward reach on sturdy chair, NO weights. Sit upright feet grounded, arms bent by torso at left start, one hand reaches forward at shoulder height in right action."
+        }
+      ],
+      "boundaries": [
+        0,
+        367,
+        752,
+        1137,
+        1536
+      ],
+      "bytes": 192404
+    }
+  ]
+}

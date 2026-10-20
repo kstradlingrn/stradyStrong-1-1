@@ -1,0 +1,28 @@
+SteadyStrong — final ZIP verification
+
+Passed checks on the app extracted from the delivered archive:
+- Both HTML entry points are byte-identical and contain Exercise Library.
+- Entire JavaScript parses and initializes in a simulated DOM.
+- All seven navigation sections render, including Exercise Library.
+- 100 strength, 100 cardio, and two recovery entries retained.
+- Every built-in entry renders a demonstration and at least one realistic
+  movement reference; all 52 movement-pair mappings resolve embedded images.
+- All 13 embedded image boards decode at full generated 1024x1536 resolution.
+- All display bounds stay inside their image board; start/action rows were
+  visually inspected for their named movements.
+- Original app source is unchanged outside library and image-presentation edits.
+- Library links, picture data, written instructions, search, edit, delete,
+  validation, safe text rendering, and failed-storage rollback pass.
+- Full-app library saving, reloading, and preservation beside workouts pass.
+- Picture-upload code passes with simulated browser image/canvas APIs:
+  1600-pixel resizing, JPEG quality .94, preview, save, and reload.
+- Mixed workout generation preserves independent strength/cardio counts;
+  coaching-view rendering, workout completion, and time/miles logs pass.
+- Exported state includes library entries and picture data.
+- ZIP integrity, identical app files, and embedded-image decoding pass.
+
+Limits:
+Browser installation was unavailable. This is not a physical-iPhone or visual
+browser-interaction test; real photo picking, Safari behavior, and speech
+playback still need device testing. Generated pictures are movement references;
+written instructions and retained equipment-specific diagrams remain available.
